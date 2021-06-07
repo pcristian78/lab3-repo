@@ -1,3 +1,7 @@
 new file added loccaly into branch feat 1
 
+
 add feature from feature2 branch
+
+some change made from GH in feature2 branch
+
